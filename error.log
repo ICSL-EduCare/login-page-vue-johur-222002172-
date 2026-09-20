@@ -1,0 +1,41 @@
+
+> login-page-vue@0.0.1 dev
+> quasar dev
+
+
+ .d88888b.
+d88P" "Y88b
+888     888
+888     888 888  888  8888b.  .d8888b   8888b.  888d888
+888     888 888  888     "88b 88K          "88b 888P"
+888 Y8b 888 888  888 .d888888 "Y8888b. .d888888 888
+Y88b.Y8b88P Y88b 888 888  888      X88 888  888 888
+ "Y888888"   "Y88888 "Y888888  88888P' "Y888888 888
+       Y8b
+
+ App • Using quasar.config.js in "esm" format
+
+ App • ⚠️  ️️Setting port to closest one available: 9001
+
+ App •  WAIT  • Compiling of "SPA UI" by Webpack in progress...
+ App •  DONE  • "SPA UI" compiled by Webpack with errors • 5016ms
+
+ App •  ERROR  •  SPA UI  in ./src/pages/IndexPage.vue?vue&type=script&setup=true&lang=js
+
+Module not found: Can't resolve imported dependency "src/assets/lawyer.png"
+Did you forget to install it?
+
+
+ App •  COMPILATION FAILED  • Please check the log above for details.
+
+ App •  WAIT  • Compiling of "SPA UI" by Webpack in progress...
+ App •  DONE  • "SPA UI" compiled by Webpack with errors • 243ms
+
+ App •  ERROR  •  SPA UI  in ./src/pages/IndexPage.vue
+
+Module Error (from ./node_modules/vue-loader/dist/index.js):
+At least one <template> or <script> is required in a single file component. C:\Users\HP\login-page-vue\src\pages\IndexPage.vue
+
+
+ App •  COMPILATION FAILED  • Please check the log above for details.
+
